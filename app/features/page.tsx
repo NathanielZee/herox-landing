@@ -64,7 +64,7 @@ export default function FeaturesPage() {
 
         <div className="text-center mt-16">
           <a
-            href="/herox-app-release.apk"
+            href="/app-release-signed.apk"
             download
             className="bg-[#ff914d] hover:bg-[#ff914d]/90 text-black font-semibold px-8 py-4 rounded-full inline-block text-center"
           >

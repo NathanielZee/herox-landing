@@ -24,7 +24,7 @@ export default function DownloadPage() {
             <h3 className="text-2xl font-bold mb-4">Android</h3>
             <p className="text-gray-400 mb-6">Download the APK for Android devices</p>
             <a
-              href="/herox-app-release.apk"
+              href="/app-release-signed.apk"
               download
               className="bg-[#ff914d] hover:bg-[#ff914d]/90 text-black font-semibold w-full inline-block text-center py-2 rounded-full"
             >

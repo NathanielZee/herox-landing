@@ -215,7 +215,7 @@ export default function HeroXLanding() {
                   downloads. Built for anime fans, by anime fans.
                 </p>
                 <a
-                  href="/herox-app-release.apk"
+                  href="/app-release-signed.apk"
                   download
                   className="bg-[#ff914d] hover:bg-[#ff914d]/90 text-black font-semibold px-4 sm:px-6 md:px-8 py-2 sm:py-3 md:py-4 rounded-full text-xs sm:text-sm md:text-base inline-block text-center"
                 >
