@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     description:
       "Stream and download your favorite anime in HD with HeroX. Fast servers, no ads while watching, and offline downloads.",
     type: "website",
-    url: "https://herox.app",
+    url: "https://herox-app.vercel.app",
     images: [
       {
         url: "/herox-og.png",

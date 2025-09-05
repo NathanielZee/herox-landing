@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://herox-app.vercel.app
+
+# Sitemaps
+Sitemap: https://herox-app.vercel.app/sitemap.xml

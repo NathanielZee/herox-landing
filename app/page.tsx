@@ -1,3 +1,44 @@
+export const metadata = {
+  title: "Herox - Anime & Manga Streaming App | Free APK Download",
+  description:
+    "Herox is your ultimate anime and manga companion. Stream the latest anime in HD, download episodes for offline viewing, and explore thousands of manga — all in one free app. Download the Herox APK today!",
+  keywords: [
+    "Herox",
+    "anime streaming app",
+    "manga reader app",
+    "download anime apk",
+    "watch anime free",
+    "anime downloader",
+    "manga downloader",
+    "HD anime streaming",
+    "read manga online",
+  ],
+  openGraph: {
+    title: "Herox - Stream Anime & Read Manga | Free APK",
+    description:
+      "Herox brings anime and manga together in one powerful app. Stream your favorite anime in HD, download episodes, and read manga anywhere. Download the Herox APK now.",
+    url: "https://herox-app.vercel.app",
+    siteName: "Herox",
+    images: [
+      {
+        url: "/herox-banner.png",
+        width: 1200,
+        height: 630,
+        alt: "Herox - Anime & Manga Streaming App",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Herox - Anime & Manga Streaming App",
+    description:
+      "Stream anime in HD, download episodes, and read manga all in one place. Download the Herox APK free today!",
+    images: ["/herox-banner.png"],
+    creator: "@MaxSteve_333",
+  }
+}
 import { Button } from "@/components/ui/button"
 import { Download, Crown, Shield } from "lucide-react"
 
